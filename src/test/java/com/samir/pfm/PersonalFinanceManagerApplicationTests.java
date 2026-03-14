@@ -1,4 +1,4 @@
-package com.samir.pfm.personal_finance_manager;
+package com.samir.pfm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
